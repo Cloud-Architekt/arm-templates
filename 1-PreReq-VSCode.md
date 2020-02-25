@@ -8,7 +8,7 @@
 [samcogan.arm-snippets](https://marketplace.visualstudio.com/items?itemName=samcogan.arm-snippets)<br/>
 <i/>Provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. Azure Cloud Shell service is available in VS Code's integrated terminal.</i>
 
-- <b>Azure Account and Sign-In</b><br/>
+- <b>ARM Params Generator</b><br/>
 [wilfriedwoivre.arm-params-generator](https://marketplace.visualstudio.com/items?itemName=wilfriedwoivre.arm-params-generator)<br/>
 <i/>Generates new and also consolidate existing parameters file parameter based on ARM templates.</i>
 
